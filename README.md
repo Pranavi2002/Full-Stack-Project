@@ -2,7 +2,7 @@
 The application uses Spring Boot for the backend and React.js for the frontend, with a MySQL database for storing user information. 
 The system supports basic CRUD operations (Create, Read, Update, Delete) and includes custom exception handling and routing.
 
-## Front-end:
+## Frontend:
 
 ## Technologies:
 
