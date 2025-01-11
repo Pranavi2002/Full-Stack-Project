@@ -26,3 +26,7 @@ GET /users: Retrieve all users.
 GET /users/{id}: Retrieve a specific user.
 PUT /users/{id}: Update user information.
 DELETE /users/{id}: Remove a user.
+
+# Summary
+
+This project provides a complete solution for user management in a web application, integrating a modern frontend with a robust backend, ensuring smooth communication and effective user experience.
