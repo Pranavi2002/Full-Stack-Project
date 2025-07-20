@@ -1,40 +1,98 @@
-# Full Stack Web Application to manage user data 
-The application uses Spring Boot for the backend and React.js for the frontend, with a MySQL database for storing user information. 
-The system supports basic CRUD operations (Create, Read, Update, Delete) and includes custom exception handling and routing.
+Perfect! Here's your **final `README.md` content for the `main` branch** of the repository [https://github.com/Pranavi2002/Full-Stack-Project](https://github.com/Pranavi2002/Full-Stack-Project):
 
-## Frontend:
+---
 
-## Technologies:
+# 👤 Full Stack User Management Web Application – React Frontend
 
-React.js: A JavaScript library for building user interfaces.
-Bootstrap: A CSS framework for styling the app.
-Axios: For HTTP requests to the backend.
+This is the **frontend** of a full-stack web application designed to manage user data. The UI is built using **React.js** and styled with **Bootstrap**. It communicates with a secure backend (hosted on the `master` branch) via RESTful APIs.
 
-## Key Functionalities:
+> ⚠️ **Project Structure**
+>
+> * `main` branch: React.js **Frontend**
+> * `master` branch: Spring Boot **Backend**
+>
+> Please switch branches accordingly to explore the complete project.
 
-Home Page:
-Displays a table listing all users retrieved from the backend.
-Buttons to add, edit, view, and delete users.
+---
 
-Add User:
-A form for registering a new user.
-Data is sent to the backend using Axios POST requests.
+## 🌐 Technologies Used
 
-Edit User:
-A form pre-filled with user data for updating user information.
-Uses Axios PUT requests.
+* **React.js** – Building responsive, component-based UI
+* **Bootstrap** – Styling and layout
+* **Axios** – HTTP communication with the backend
+* **React Router DOM** – Client-side routing
 
-View User:
-Displays details of a specific user.
+---
 
-Delete User:
-Deletes a user with Axios DELETE requests.
-Removes the user from the UI dynamically.
+## 🔧 Key Functionalities
 
-Routing:
-React Router is used for page navigation.
-Routes include Home, Add User, Edit User, and View User.
+### 🏠 Home Page
 
-Navigation Bar:
-Built using Bootstrap.
-Includes links for quick navigation between pages.
+* Displays a list of all users in a table.
+* Options to **Add**, **Edit**, **View**, and **Delete** users.
+
+### ➕ Add User
+
+* A form to register a new user.
+* Sends data to backend using `POST` request via Axios.
+
+### ✏️ Edit User
+
+* Pre-filled form with user data.
+* Allows updates using a `PUT` request.
+
+### 👁️ View User
+
+* Displays user details in a read-only format.
+
+### ❌ Delete User
+
+* Deletes user from backend using a `DELETE` request.
+* Dynamically removes user from the UI.
+
+### 🔁 Routing
+
+* Implemented with **React Router**.
+* Pages: `/`, `/adduser`, `/edituser/:id`, `/viewuser/:id`
+
+### 🧭 Navigation Bar
+
+* Built using Bootstrap.
+* Easy access to all app pages.
+
+---
+
+## 🏁 Running the Frontend
+
+```bash
+# Clone the repository and checkout main branch
+git clone https://github.com/Pranavi2002/Full-Stack-Project.git
+cd Full-Stack-Project
+git checkout main
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
+```
+
+The app will run on `http://localhost:3000` by default.
+
+---
+
+## 📂 Project Structure
+
+```plaintext
+main (React Frontend)
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── App.js
+│   ├── index.js
+├── package.json
+└── ...
+```
+
+For backend details and API documentation, see the [master branch README](https://github.com/Pranavi2002/Full-Stack-Project/blob/master/README.md).
