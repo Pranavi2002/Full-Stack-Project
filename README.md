@@ -1,7 +1,3 @@
-Perfect! Here's your **final `README.md` content for the `main` branch** of the repository [https://github.com/Pranavi2002/Full-Stack-Project](https://github.com/Pranavi2002/Full-Stack-Project):
-
----
-
 # 👤 Full Stack User Management Web Application – React Frontend
 
 This is the **frontend** of a full-stack web application designed to manage user data. The UI is built using **React.js** and styled with **Bootstrap**. It communicates with a secure backend (hosted on the `master` branch) via RESTful APIs.
