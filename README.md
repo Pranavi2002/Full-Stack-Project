@@ -102,6 +102,8 @@ main (React Frontend)
 
 For backend details and API documentation, see the [master branch README](https://github.com/Pranavi2002/Full-Stack-Project/blob/master/README.md).
 
+---
+
 ## 👩‍💻 Author
 ### Pranavi Kolipaka
 Feel free to connect: [LinkedIn] (https://www.linkedin.com/in/vns-sai-pranavi-kolipaka-489601208/) | [GitHub] (https://github.com/Pranavi2002)
