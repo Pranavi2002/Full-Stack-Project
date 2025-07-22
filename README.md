@@ -1,4 +1,4 @@
-# 👤 Full Stack User Management Web Application – React Frontend
+# 👤 Full Stack User Management Web Application
 
 This is the **frontend** of a full-stack web application designed to manage user data. The UI is built using **React.js** and styled with **Bootstrap**. It communicates with a secure backend (hosted on the `master` branch) via RESTful APIs.
 
