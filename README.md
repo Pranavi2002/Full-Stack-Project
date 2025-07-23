@@ -91,6 +91,10 @@ main (React Frontend)
 └── ...
 ```
 
+---
+
+## Screenshots
+
 ![Add User](screenshots/adduser.png)
 ![Home](screenshots/home.png)
 ![View User](screenshots/viewuser.png)
