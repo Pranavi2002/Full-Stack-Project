@@ -102,4 +102,6 @@ For backend details and API documentation, see the [master branch README](https:
 
 ## 👩‍💻 Author
 ### Pranavi Kolipaka
-Feel free to connect: [LinkedIn] (https://www.linkedin.com/in/vns-sai-pranavi-kolipaka-489601208/) | [GitHub] (https://github.com/Pranavi2002)
+Feel free to connect: 
+- [LinkedIn] (https://www.linkedin.com/in/vns-sai-pranavi-kolipaka-489601208/) 
+- [GitHub] (https://github.com/Pranavi2002)
