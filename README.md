@@ -95,9 +95,16 @@ main (React Frontend)
 
 ## Screenshots
 
+### Add User
 ![Add User](screenshots/adduser.png)
+
+### Home
 ![Home](screenshots/home.png)
+
+### View User
 ![View User](screenshots/viewuser.png)
+
+### Edit User
 ![Edit User](screenshots/edituser.png)
 
 For backend details and API documentation, see the [master branch README](https://github.com/Pranavi2002/Full-Stack-Project/blob/master/README.md).
